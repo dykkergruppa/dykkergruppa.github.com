@@ -1,25 +1,15 @@
 ---
 layout: page
-title: Dykkergruppa NTNUI Side
-tagline: Best Dykking Seff
+title: Dykkergruppa NTNUI
+tagline: Strongest there is
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+We are SCUBA-divers.
+We are freedivers.
+We are underwater rugby players.
+Come play with us.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-    
-## Sample Posts
+## Thursday meetings
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+You can find us each thursday. Please do.
